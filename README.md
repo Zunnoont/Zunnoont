@@ -1,5 +1,5 @@
 Hi im Zunnoon! 
 
-Im a current undergraduate student studying Computer Science and Commerce.
+Im a current penultimate year undergraduate student studying Computer Science and Commerce.
 
-I post all my personal projects on my github to show my passion for Software Engineering and programming as a whole
+I post all my personal projects on my github to show my passion for Software Engineering and programming as a whole.
