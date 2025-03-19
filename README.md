@@ -1,5 +1,7 @@
-Hi im Zunnoon! 
+Hi I'm Zunnoon! 
 
-Im a current penultimate year undergraduate student studying Computer Science and Commerce.
+I'm a recent UNSW Sydney graduate of Computer Science and Commerce.
 
-I post all my personal projects on my github to show my passion for Software Engineering and programming as a whole.
+I post all my personal projects on my GitHub to show my passion for Software Engineering and programming as a whole.
+
+I also love drawing pixel art, so take a look at some of my projects, which often use pixel animations!
